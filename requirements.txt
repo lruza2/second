@@ -1,0 +1,12 @@
+# Python environment for test.ipynb
+# Recommended Python version: 3.12
+
+pandas>=2.2.0
+numpy>=1.26.0
+openpyxl>=3.1.0
+plotly>=6.0.0
+streamlit>=1.30.0
+python-dateutil>=2.9.0
+jupyterlab>=4.5.0
+notebook>=7.0.0
+ipython>=9.0.0
